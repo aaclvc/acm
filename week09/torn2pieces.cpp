@@ -44,17 +44,6 @@ int main (void)
     std::string start, end;
     std::cin >> start >> end;
 
-//test if graph is correct
-//    for (auto const& x : graph)
-//    {
-//        std::cout << x.first << ": ";  // string (key)
-//        for(auto const& y: x.second)
-//        {
-//             std::cout << y << ", ";
-//        }
-//        std::cout << std::endl;
-//    }
-
     std::queue<std::string> q;
     q.push(start);
 
