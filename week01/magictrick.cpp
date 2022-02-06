@@ -1,11 +1,11 @@
 /* Aida Colovic
- * 
- * Kattis Problem   : Triangle Area
- * Problem ID       : triarea
+ *
+ * Kattis Problem   : Magic Trick
+ * Problem ID       : magictrick
  * CPU Time limit   : 1 sec
  * Memory limit     : 1024 MB
  * Difficultiy      : 1.3
- * 
+ *
  */
 
 #include <iostream>

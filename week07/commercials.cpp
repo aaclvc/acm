@@ -1,4 +1,3 @@
-/* NOT FINISHED */
 /* Aida Colovic
  *
  * Kattis Problem   : Radio Commercials
