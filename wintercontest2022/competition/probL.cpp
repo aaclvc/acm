@@ -49,16 +49,9 @@ int main (void)
     }
 
     int diff = end - start;
-    //int factor = std::ceil(diff/32.0);
-    // for (int i = 1; i < factor; i++)
-    // {
-    //     std::cout << "long ";
-    // }
-    // std::cout << "long" << std::endl;
-
     int factor = 32;
-
     int count = 1;
+
     while (1)
     {
         if(diff > factor)

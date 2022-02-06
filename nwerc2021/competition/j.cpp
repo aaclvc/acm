@@ -128,24 +128,10 @@ int main(void)
         }
         else if(diff == 180)
         {
-            // if(map[k-1] == 0)
-            // {
-            //     setVisited2(map, k, g);
-            // }
-            // else
-            // {
-            //     setVisited(map, k, g);
-            // }
             cout << "yes" << endl;
             return 0;
         }
     }
-
-    // for(auto i : map)
-    // {
-    //     cout << i.first << " " << i.second << endl;
-    // }
     allVisted(map);
-
     return 0;
 }
